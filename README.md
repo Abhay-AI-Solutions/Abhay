@@ -37,3 +37,4 @@ Working:
 10.	Step-10: The cameras in the train compartment will also scan people and their faces to check if norms are being violated. The same rule implies here. If the norms are broken more than three times, then the person’s ticket shall be immediately confiscated and while deboarding they will be asked to pay the fine. 
 
 
+**Dataset for mask detection taken from BalajiSrinivasan
